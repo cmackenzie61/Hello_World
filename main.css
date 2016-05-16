@@ -1,0 +1,14 @@
+body {
+
+padding: 2% 6% 6% 6%;
+}
+p {
+	background-color: purple;
+	width: 70%;
+	float: left;
+}
+
+.container {
+	background-color: grey;
+	width: 80%;
+}
